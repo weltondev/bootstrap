@@ -11,8 +11,12 @@ body {
 header {
   margin: 5rem;
 }
-#navbar{
-  background-color:aqua;
-  margin: 0;
+
+.bgdark {
+  background-color: yellow;
+}
+
+#teste{
+  transition: 1s ease-out;
 }
  
